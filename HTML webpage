@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+
+    </head>
+    <body bgcolor="black" style="color:white">
+        <center>
+        <h1>Upcoming Events</h1>
+        <P>Dont miss any of your important events!</P>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita, iste recusandae! Rem nemo quas delectus. Facilis porro beatae iusto dolor aliquam cupiditate ut architecto eligendi dolores pariatur mollitia quam excepturi eos eaque aspernatur adipisci ea magnam corporis, error quis exercitationem? Aliquam ullam, earum harum doloribus sed, vitae aut officia ipsam, laborum quaerat officiis debitis est animi inventore ut. Ex consectetur optio labore ipsam. Sequi voluptatum reprehenderit adipisci maxime animi voluptas quisquam officiis non? Harum libero quibusdam totam, doloremque mollitia vero officia officiis! Magnam, asperiores, eius facilis officiis corrupti deserunt inventore dignissimos consequatur culpa eum assumenda dolore facere error nesciunt maxime!
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free Entry | Free Food | Pets not allowed</h2>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum ad quasi modi minima sequi nemo totam qui enim architecto mollitia, dicta quibusdam in cupiditate temporibus pariatur. Accusamus doloribus, repellat assumenda fugiat nam corporis optio sed vitae obcaecati animi hic nostrum quam a maxime, numquam, ratione ducimus. Aliquid fugit ullam magni!</p>
+    </center>
+    <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/">Fashion Store</a>
+
+        </h1>
+        <h2>Free Entry | Free Food | Pets not allowed</h2>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum ad quasi modi minima sequi nemo totam qui enim architecto mollitia, dicta quibusdam in cupiditate temporibus pariatur. Accusamus doloribus, repellat assumenda fugiat nam corporis optio sed vitae obcaecati animi hic nostrum quam a maxime, numquam, ratione ducimus. Aliquid fugit ullam magni!</p>
+    
+        
+    </center>
+    <hr>
+    <center>
+    <h1>Contact</h1>
+    <h2>9679379627 | eventcollab@gmail.com</h2>
+    <p>6th Avenue,chennai,TN</p>
+    </center>
+
+    </body>
+</html>
